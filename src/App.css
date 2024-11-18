@@ -1,0 +1,12 @@
+
+
+#slide{
+   display: flex;
+   justify-content: flex-end;
+   margin-top: -20px;
+}
+
+.rout{
+    border: 1px solid red;
+    height: 80em;
+}
